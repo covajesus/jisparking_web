@@ -1,0 +1,31 @@
+.header-logo img {
+    width: 80px; /* Establece el ancho específico o usa un porcentaje */
+    height: auto; /* Mantiene la proporción de la imagen */
+}
+
+.desc-content {
+    font-size: 12px !important;
+}
+
+.hero-slide-content > h3 {
+    font-size: 55px !important;
+    color: white !important;
+}
+
+.hero-slide-content > p {
+    font-size: 18px !important;
+    color: white !important;
+}
+
+.footer-logo > a > img {
+    width: 150px; /* Establece el ancho específico o usa un porcentaje */
+    height: auto; /* Mantiene la proporción de la imagen */
+}
+
+.footer-logo {
+    text-align: center;
+}
+
+.footer-logo a {
+    display: inline-block;
+}
