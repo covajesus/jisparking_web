@@ -29,3 +29,11 @@
 .footer-logo a {
     display: inline-block;
 }
+
+.section-margin {
+    margin-top: 40px !important;
+}
+
+.client-header {
+    margin-top: 40px !important;
+}
